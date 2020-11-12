@@ -9,17 +9,17 @@
 - 🌱 I’m currently learning Computer Vision
 - 🔧 I develop tools mainly in <a href="https://www.mathworks.com/?requestedDomain=">MATLAB</a>
 - 👯 In my free time I like to learn about Android, C++, Python
-- I'm maintaining LineageOS for Samsung Galaxy S III Neo aka s3ve3g, and co-mantain LineageOS for Samsung Galaxy S7 aka herolte
+- 💻 I'm maintaining LineageOS for Samsung Galaxy S III Neo aka s3ve3g, and co-mantain LineageOS for Samsung Galaxy S7 aka herolte
 - 💬 Ask me about Computer Vision, MATLAB, LineageOS
   
 ### 🔭 I’m currently...
 
-- Aiming to finish university ✨
-- Dedicated to continuous learning 📖
+- ✨ Aiming to finish university 
+- 📖 Dedicated to continuous learning
   
 ### 📫 Connect with me
 
-- 📫 email: bosconovic@gmail.com
+- 📫 E-mail: bosconovic@gmail.com
 
 [<img align="left" alt="my Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="my LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
