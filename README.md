@@ -27,7 +27,7 @@
 </div>
 
 [twitter]: https://twitter.com/fdcuzzocrea
-[linkedin]: www.linkedin.com/in/fcuzzocrea
+[linkedin]: https://www.linkedin.com/in/fcuzzocrea
 
   
 
