@@ -5,16 +5,15 @@
 
 ### I'm student of Space Engineering in Politecnico di Milano
 
-- 🔭 I’m currently working on finishing my internship at <a href="https://www.dorbit.space"> <img height="15" src="http://www.spacesafetymagazine.com/wp-content/uploads/2013/03/D-ORBIT-LOGO-trasparente-TAGLINE-300x79.png" alt="D-Orbit" /></a>
-- 🌱 I’m currently learning Computer Vision
-- 🔧 I develop tools mainly in <a href="https://www.mathworks.com/?requestedDomain=">MATLAB</a>
+- 🔭 I’m currently working as Embedded Software Developer at <a href="https://www.dorbit.space"> <img height="15" src="http://www.spacesafetymagazine.com/wp-content/uploads/2013/03/D-ORBIT-LOGO-trasparente-TAGLINE-300x79.png" alt="D-Orbit" /></a>
+- 🌱 I’m currently learning C
+- 🔧 I develop tools mainly in <a href="https://www.mathworks.com/?requestedDomain=">MATLAB</a> and C
 - 👯 In my free time I like to learn about Android, C++, Python
-- 💻 I'm maintaining LineageOS for Samsung Galaxy S III Neo aka s3ve3g, and co-mantain LineageOS for Samsung Galaxy S7 aka herolte
+- 💻 I'm maintaining LineageOS for Samsung Galaxy S III Neo aka s3ve3g, Samsung Galaxy Tab S 8.4 aka klimtlte, and co-mantain LineageOS for Samsung Galaxy S7 aka herolte
 - 💬 Ask me about Computer Vision, MATLAB, LineageOS
   
 ### 🔭 I’m currently...
 
-- ✨ Aiming to finish university 
 - 📖 Dedicated to continuous learning
   
 ### 📫 Connect with me
